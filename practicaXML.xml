@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <M_VID_DVD_ORG_00003>
+        <Localizacion_grabacion>
+            <Sitio1>Alberta, Islandia</Sitio1>
+            <Sitio2>Los Ángeles</Sitio2>
+        </Localizacion_grabacion>
+        <Fecha_de_grabacion>14-10-2012</Fecha_de_grabacion>
+        <Director>
+            <Nombre>Christopher</Nombre>
+            <Apellidos>Nolan</Apellidos>
+        </Director>
+        <Actor_principal>
+            <Nombre>Matthew</Nombre>
+            <Apellidos>McConaughey</Apellidos>
+        </Actor_principal>
+        <Actores_secundarios>
+            <Actor1>
+                <Nombre>Jessica</Nombre>
+                <Apellidos>Chastain</Apellidos>
+            </Actor1>
+            <Actor2>
+                <Nombre>Anne</Nombre>
+                <Apellidos>Hathaway</Apellidos>
+            </Actor2>
+        </Actores_secundarios>
+        <Compositor_bso>
+            <Nombre>Hans</Nombre>
+            <Apellidos>Zimmer</Apellidos>
+        </Compositor_bso>
+        <Guionista>
+            <Guionista1>
+                <Nombre>Christopher</Nombre>
+                <Apellidos>Nolan</Apellidos>    
+            </Guionista1>
+            <Guionista2>
+                <Nombre>Jonathan</Nombre>
+                <Apellidos>Nolan</Apellidos>    
+            </Guionista2>
+        </Guionista>
+        <Productor>
+            <Productor1>
+                <Nombre>Christopher</Nombre>
+                <Apellidos>Nolan</Apellidos>    
+            </Productor1>
+            <Productor2>
+                <Nombre>Lynda</Nombre>
+                <Apellidos>Rosen</Apellidos>    
+            </Productor2>
+            <Productor3>
+                <Nombre>Emma</Nombre>
+                <Apellidos>Thomas</Apellidos>    
+            </Productor3>
+        </Productor>
+        <Titulo_pelicula>Interstellar</Titulo_pelicula>
+        <Lengua>
+            <Original>Inglés</Original>
+        </Lengua>
+        <Categoria_dramatica>drama, aventuras, ciencia ficción</Categoria_dramatica>
+    </M_VID_DVD_ORG_00003>
+
+    <M_VID_BRY_CPY_00004>
+        <Localizacion_grabacion>Hungría</Localizacion_grabacion>
+        <Fecha_de_grabacion>01-11-2022</Fecha_de_grabacion>
+        <Director>
+            <Nombre>Neill</Nombre>
+            <Apellidos>Blomkamp</Apellidos>
+        </Director>
+        <Actor_principal>
+            <Nombre>Archie</Nombre>
+            <Apellidos>Madekwe</Apellidos>
+        </Actor_principal>
+        <Actores_secundarios>
+            <Actor1>
+                <Nombre>Orlando</Nombre>
+                <Apellidos>Bloom</Apellidos>
+            </Actor1>
+            <Actor2>
+                <Nombre>David</Nombre>
+                <Apellidos>Harbour</Apellidos>
+            </Actor2>
+        </Actores_secundarios>
+        <Compositor_bso>
+            <Nombre>Lorne</Nombre>
+            <Apellidos>Balfe</Apellidos>
+        </Compositor_bso>
+        <Guionista>
+            <Nombre>Jason</Nombre>
+            <Apellidos>Hall</Apellidos>
+        </Guionista>
+        <Productor>
+            <Nombre>Asad</Nombre>
+            <Apellidos>Qizilbash</Apellidos>
+        </Productor>
+        <Titulo_pelicula>Gran Turismo</Titulo_pelicula>
+        <Lengua>
+            <Original>Inglés</Original>
+        </Lengua>
+        <Categoria_dramatica>romántica, aventura</Categoria_dramatica>
+    </M_VID_BRY_CPY_00004>
+
+	<M_PRG_DVP_ORG_00007>
+		<Fecha_salida>22-10-2009</Fecha_salida>
+		<Empresa>Microsoft</Empresa>
+		<Titulo>Windows7</Titulo>
+		<Version>Windows 7 Professional</Version>
+		<Tipo>sistema operativo</Tipo>
+	</M_PRG_DVP_ORG_00007>
+
+	<M_PRG_DSK_CPY_00008>
+		<Fecha_salida>22-05-1980</Fecha_salida>
+		<Empresa>Namco</Empresa>
+		<Titulo>Pac-Man</Titulo>
+		<Version>1</Version>
+		<Tipo>Videojuego</Tipo>
+	</M_PRG_DSK_CPY_00008>
+
+</productos>
